@@ -94,7 +94,7 @@ The source code is packaged in a **password-protected `Speed_up.rar`** file, hos
 - Keep it legal, ethical, and constructive.
 
 ###📜 License
-Educational Use Only
 
+...Educational Use Only...
 This repository is released without a formal license.
 Distribution, modification, or use outside educational or authorized environments is strictly prohibited.
