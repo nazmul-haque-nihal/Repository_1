@@ -88,13 +88,14 @@ The source code is packaged in a **password-protected `Speed_up.rar`** file, hos
   ```bash
   curl -X POST https://api.telegram.org/bot<your_token>/sendMessage -d "chat_id=<your_chat_id>&text=Test"
 
-##🌠 Contributing
+## Contributing
 - Open to educational contributions!
 - Feel free to fork this repo, submit pull requests, or suggest improvements.
 - Keep it legal, ethical, and constructive.
 
-###📜 License
+## 📙 License
 
 ...Educational Use Only...
+
 This repository is released without a formal license.
 Distribution, modification, or use outside educational or authorized environments is strictly prohibited.
